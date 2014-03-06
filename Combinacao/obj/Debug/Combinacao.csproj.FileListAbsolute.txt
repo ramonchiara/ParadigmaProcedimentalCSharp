@@ -1,0 +1,5 @@
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Combinacao\bin\Debug\Combinacao.exe.config
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Combinacao\bin\Debug\Combinacao.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Combinacao\bin\Debug\Combinacao.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Combinacao\obj\Debug\Combinacao.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Combinacao\obj\Debug\Combinacao.pdb

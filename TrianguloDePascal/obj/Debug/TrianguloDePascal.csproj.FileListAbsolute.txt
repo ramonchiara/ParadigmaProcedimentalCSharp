@@ -1,0 +1,5 @@
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe.config
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\TrianguloDePascal\bin\Debug\TrianguloDePascal.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\TrianguloDePascal\obj\Debug\TrianguloDePascal.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\TrianguloDePascal\obj\Debug\TrianguloDePascal.pdb

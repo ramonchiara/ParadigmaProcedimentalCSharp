@@ -1,0 +1,6 @@
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\Aulas\Blog\Paradigmas\ParadigmaProcedimentalCSharp\Fatorial\obj\Debug\Fatorial.pdb

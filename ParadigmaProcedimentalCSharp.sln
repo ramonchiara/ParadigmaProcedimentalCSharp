@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{2213B050-1B7E-4E8C-806C-DBCB35445DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinacao", "Combinacao\Combinacao.csproj", "{40CCB26C-4776-4B47-A422-99C2FBC741EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinacao2", "Combinacao2\Combinacao2.csproj", "{CC1B200B-815B-450F-BFF7-E61E51633FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloDePascal", "TrianguloDePascal\TrianguloDePascal.csproj", "{DCA8E3E9-CAC5-4BF9-8723-3B10C3EFF512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2213B050-1B7E-4E8C-806C-DBCB35445DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2213B050-1B7E-4E8C-806C-DBCB35445DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2213B050-1B7E-4E8C-806C-DBCB35445DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2213B050-1B7E-4E8C-806C-DBCB35445DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CCB26C-4776-4B47-A422-99C2FBC741EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CCB26C-4776-4B47-A422-99C2FBC741EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CCB26C-4776-4B47-A422-99C2FBC741EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CCB26C-4776-4B47-A422-99C2FBC741EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1B200B-815B-450F-BFF7-E61E51633FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1B200B-815B-450F-BFF7-E61E51633FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1B200B-815B-450F-BFF7-E61E51633FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1B200B-815B-450F-BFF7-E61E51633FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA8E3E9-CAC5-4BF9-8723-3B10C3EFF512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA8E3E9-CAC5-4BF9-8723-3B10C3EFF512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA8E3E9-CAC5-4BF9-8723-3B10C3EFF512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA8E3E9-CAC5-4BF9-8723-3B10C3EFF512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
